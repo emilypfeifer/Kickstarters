@@ -1,6 +1,6 @@
 # What can you do to make your Kickstarter reach its goal?
 ## The Data
-The Kickstarter dataset contains data on about 300,000 Kickstarter campaigns as well as whether or not they were successful in reaching their monetary goal. The data was obtained via Kaggle and can be found in the file `"kickstart2018.csv"` in this repository. The Kickstarter data includes several predictor variables for each project, including the country the project was started in, the category of the project, and the title of the project. 
+The Kickstarter dataset contains data on about 300,000 Kickstarter campaigns as well as whether or not they were successful in reaching their monetary goal. The data was obtained via Kaggle and can be found in the file `"kickstart2018.zip"` in this repository. The Kickstarter data includes several predictor variables for each project, including the country the project was started in, the category of the project, and the title of the project. 
 
 ## Goal
 
