@@ -2,7 +2,7 @@
 
 The jupyter notebook for this project can be found [here.](https://github.com/emilypfeifer/NorthWind/blob/master/student.ipynb)
 
-To view this jupyter notebook with NBviewer to experience Plotly's interactive graphs, please visit [here.](https://nbviewer.jupyter.org/github/emilypfeifer/Kickstarters/blob/master/kickstarter.ipynb)
+To properly view the interactive graphs in this project, please use NBviewer [here.](https://nbviewer.jupyter.org/github/emilypfeifer/Kickstarters/blob/master/kickstarter.ipynb)
 
 The blog post for this project can be found [here.](https://pfeiferem.weebly.com/classifierssuccess-of-a-kickstarter.html)
 
