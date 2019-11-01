@@ -1,6 +1,6 @@
 # What can you do to make your Kickstarter reach its goal?
 
-The jupyter notebook for this project can be found [here.](https://github.com/emilypfeifer/NorthWind/blob/master/student.ipynb)
+The jupyter notebook for this project can be found [here.](https://github.com/emilypfeifer/Kickstarters/blob/master/kickstarter.ipynb)
 
 To properly view the interactive graphs in this project, please use NBviewer [here.](https://nbviewer.jupyter.org/github/emilypfeifer/Kickstarters/blob/master/kickstarter.ipynb)
 
